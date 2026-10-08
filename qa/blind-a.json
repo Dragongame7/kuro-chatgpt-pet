@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: nose projects to the right of both visible eyes, with muzzle and chin opening right. B: nose projects left of the large eye, with muzzle and chin opening left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: nose is on the rightmost edge of the face and the larger eye sits left of it. B: nose is on the leftmost edge of the face and the larger eye sits right of it."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: nose and muzzle protrude left from the eye and cheek. B: nose and muzzle protrude right from the eye and cheek."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: nose points left with eye and ear behind it to the right. B: nose points right with eye and ear behind it to the left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: nose lies right of the large visible eye and chin extends right. B: nose lies left of the large visible eye and chin extends left."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: lowered muzzle still ends at a nose on the right of the eyes. B: lowered muzzle ends at a nose on the left of the eyes."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: nose protrudes right of the visible eye toward the right foreleg. B: nose protrudes left of the visible eye toward the left foreleg."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A: nose is well below both eyes and chin rests just above the paws beneath a low forehead. B: nose rises between and above the eyes, with a broad exposed chin and throat below the tipped-back muzzle."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A: nose is slightly above the large eye center and the chin and throat lift away from the paws. B: nose is below the eye centers and the chin approaches the forepaws beneath a forward-bent head."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A: nose is below the large eye center and muzzle tips toward the raised foreleg. B: nose is slightly above the large eye center with lifted chin and exposed throat."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A: nose is slightly above the large eye center and the chin is lifted over an extended throat. B: nose is below the large eye center, with the muzzle sloping downward and chin closer to the foreleg."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A: nose is above the large eye center and chin tilts upward exposing the throat. B: nose is below both eyes and chin sits near the paws under a bowed forehead."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A: nose is clearly below the eyes and chin is nearly against the paws. B: nose is above the large eye center with an elevated chin and long exposed throat."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A: nose lies below the large eye center, chin low over the forepaw. B: nose lies slightly above the large eye center, with lifted chin and exposed throat below the muzzle."
+    }
+  ]
+}

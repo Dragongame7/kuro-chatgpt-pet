@@ -1,0 +1,131 @@
+[
+  {
+    "state": "failed",
+    "source_bottoms": [
+      203,
+      203,
+      203,
+      203,
+      203,
+      203,
+      203,
+      203
+    ],
+    "translation_y": 0,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  },
+  {
+    "state": "idle",
+    "source_bottoms": [
+      156,
+      156,
+      156,
+      156,
+      156,
+      156
+    ],
+    "translation_y": 47,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  },
+  {
+    "state": "jumping",
+    "source_bottoms": [
+      177,
+      174,
+      136,
+      172,
+      177
+    ],
+    "translation_y": 26,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  },
+  {
+    "state": "review",
+    "source_bottoms": [
+      203,
+      203,
+      203,
+      203,
+      203,
+      203
+    ],
+    "translation_y": 0,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  },
+  {
+    "state": "running",
+    "source_bottoms": [
+      182,
+      182,
+      184,
+      184,
+      184,
+      184
+    ],
+    "translation_y": 19,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  },
+  {
+    "state": "running-left",
+    "source_bottoms": [
+      183,
+      185,
+      184,
+      185,
+      185,
+      184,
+      182,
+      184
+    ],
+    "translation_y": 18,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  },
+  {
+    "state": "running-right",
+    "source_bottoms": [
+      181,
+      183,
+      182,
+      183,
+      183,
+      182,
+      180,
+      182
+    ],
+    "translation_y": 20,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  },
+  {
+    "state": "waiting",
+    "source_bottoms": [
+      203,
+      203,
+      196,
+      196,
+      196,
+      203
+    ],
+    "translation_y": 0,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  },
+  {
+    "state": "waving",
+    "source_bottoms": [
+      203,
+      197,
+      197,
+      203
+    ],
+    "translation_y": 0,
+    "scale": 1,
+    "reason": "Shared row floor; source motion preserved"
+  }
+]

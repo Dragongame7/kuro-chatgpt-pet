@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose projects right of both eyes and chin; B nose projects left of eyes with muzzle and chin following left."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A right eye and nose sit on the right-facing muzzle edge; B nose is on the left edge, left of visible eyes."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A nose extends left beyond eyes and chin; B nose extends right beyond eyes with right-facing cheek and jaw."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A left-projecting nose and muzzle lie left of the eye; B right-projecting nose lies right of both eyes."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose reaches the right silhouette beyond the eyes; B lowered nose projects left of eyes and chin."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A lowered muzzle terminates right of eyes; B lowered muzzle terminates left of eyes with chin oriented left."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A nose is at the right end of the low muzzle, right of the eye pair; B nose is left of both visible eyes on the low muzzle."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose is beneath the eye pair, chin almost against paws, with top of head prominent; B nose is raised toward the eye line, underside of chin exposed and muzzle pointing upward."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A raised snout and visible underside of chin indicate upward pitch; B nose drops below eyes toward paws and chin is nearly resting on forelegs."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A eyes sit above a lowered nose and chin close to paws; B muzzle has a slight upward tilt and the lifted chin reveals the white throat."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "ambiguous",
+      "B": "down",
+      "reason": "A nose and muzzle are nearly level in profile, and the visible chin does not clearly establish upward or downward pitch; B forehead leans forward above the eye and nose, with chin lowered toward the forelegs."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A nose points upward at the upper-left edge of the muzzle and underside of chin is exposed; B nose lies beneath eyes with chin close to paws."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A nose is beneath eye line and chin almost touches paws; B snout points upward-left and the exposed chin and throat rise above forelegs."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "ambiguous",
+      "reason": "A nose drops below eyes and chin is low beside paws; B muzzle projects nearly horizontally left, with no clearly raised or dropped nose relative to the facial profile."
+    }
+  ]
+}

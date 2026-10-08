@@ -1,0 +1,88 @@
+{
+  "pairs": [
+    {
+      "pair": "horizontal-1",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the nose projects to the right of the eyes, with the right muzzle tip leading and the left cheek exposed. B: the nose projects to the left of the eyes, with the left muzzle tip leading and the right cheek exposed."
+    },
+    {
+      "pair": "horizontal-2",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the black nose and muzzle tip sit on the screen-right side of the face beyond the eyes. B: the nose and cream muzzle extend screen-left from the eyes."
+    },
+    {
+      "pair": "horizontal-3",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: the black nose is the leftmost facial landmark and the cream chin follows beneath a left-projecting muzzle. B: the nose is at the rightmost muzzle tip beyond the right-facing eye line."
+    },
+    {
+      "pair": "horizontal-4",
+      "A": "screen-left",
+      "B": "screen-right",
+      "reason": "A: the nose extends left of both visible eyes and the muzzle slopes left over the forepaws. B: the nose extends right of the eyes, with the cream cheek and chin trailing to its left."
+    },
+    {
+      "pair": "horizontal-5",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the nose is at the right edge of the face and the nearer eye lies to its left. B: the nose is at the left muzzle edge, left of the eyes, above the paws."
+    },
+    {
+      "pair": "horizontal-6",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the nose and muzzle point right, beyond the eyes, while the cheek remains on the left. B: the nose and cream muzzle point left from the eye region."
+    },
+    {
+      "pair": "horizontal-7",
+      "A": "screen-right",
+      "B": "screen-left",
+      "reason": "A: the low nose projects right from the eyes and sits over the rightward muzzle tip. B: the low nose projects left from the eyes and sits at the leftward muzzle tip."
+    },
+    {
+      "pair": "vertical-1",
+      "A": "down",
+      "B": "up",
+      "reason": "A: the nose sits low between and below the eyes, the chin is close to the forepaws, and little underside of the muzzle is exposed. B: the nose is lifted to approximately eye height, the eyes aim upward, and a broad cream chin and throat underside is exposed."
+    },
+    {
+      "pair": "vertical-2",
+      "A": "up",
+      "B": "down",
+      "reason": "A: the nose points upward relative to the muzzle, the eyes look above horizontal, and the cream chin is visible beneath the raised muzzle. B: the nose falls below the eye line toward the paws and the chin is tucked into the low face."
+    },
+    {
+      "pair": "vertical-3",
+      "A": "down",
+      "B": "up",
+      "reason": "A: the nose is lower than the eyes and the muzzle angles toward the paws with the chin tucked. B: the eyes and nose are lifted, with the cream chin and throat visible beneath the elevated muzzle."
+    },
+    {
+      "pair": "vertical-4",
+      "A": "up",
+      "B": "down",
+      "reason": "A: the eyes look upward and the nose is raised, exposing cream chin beneath the muzzle. B: the nose sits lower than the eyes at a downward-slanting muzzle tip, and the chin is held close to the chest."
+    },
+    {
+      "pair": "vertical-5",
+      "A": "up",
+      "B": "down",
+      "reason": "A: the nose points up near the eye level, with a large cream chin and throat surface underneath. B: the nose is low below the eyes and close to the forepaws, with the chin tucked."
+    },
+    {
+      "pair": "vertical-6",
+      "A": "down",
+      "B": "up",
+      "reason": "A: the eyes sit above the low nose and the muzzle is lowered toward the paws. B: the nose is lifted near eye level and the cream underside of chin and throat is exposed."
+    },
+    {
+      "pair": "vertical-7",
+      "A": "down",
+      "B": "up",
+      "reason": "A: the nose lies distinctly below the eyes, close to the paws, and the chin is tucked under the muzzle. B: the nose and eyes angle upward and the cream chin is exposed beneath the lifted muzzle."
+    }
+  ]
+}
